@@ -1,0 +1,12 @@
+{
+  "name": "javascriptfunctional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tests.js",
+  "type": "module",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
